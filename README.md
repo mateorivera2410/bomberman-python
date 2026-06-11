@@ -25,7 +25,7 @@ This project is a console-based version of Bomberman where the player can start 
 
 ## Project Structure
 
-
+```txt
 bomberman-python/
 ├── interface.py
 ├── logic.py
@@ -33,7 +33,7 @@ bomberman-python/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
-
+```
 
 How to Run
 Download or clone this repository.
