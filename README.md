@@ -27,7 +27,7 @@ This project is a console-based version of Bomberman where the player can start 
 
 
 bomberman-python/
-├── main.py
+├── interface.py
 ├── logic.py
 ├── objects.py
 ├── README.md
@@ -40,7 +40,7 @@ Download or clone this repository.
 Open the project folder.
 Run the main file:
 ```txt
-python main.py
+python interface.py
 ```
 
 Files Description
